@@ -22,11 +22,11 @@
   Data:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"   width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"   width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"   width="65" height="40"/>&nbsp; 
   <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png"  width="60" height="40"/>&nbsp;
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"  width="60" height="40"/>&nbsp; 
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"  width="85" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  width="40" height="40"/>&nbsp; 
-  <img src="https://keras.io/img/logo.png"  width="40" height="40"/>&nbsp;
+  <img src="https://keras.io/img/logo.png"  width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"    width="40" height="40"/>&nbsp; 
   
