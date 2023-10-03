@@ -23,7 +23,7 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"   width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"   width="65" height="40"/>&nbsp; 
-  <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png"  width="60" height="40"/>&nbsp; <-- learning
+  <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png"  width="60" height="40"/>&nbsp;
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"  width="85" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  width="40" height="40"/>&nbsp; 
   <img src="https://keras.io/img/logo.png"  width="80" height="40"/>&nbsp;
@@ -34,7 +34,7 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"   width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"    width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="40" height="40"/>&nbsp;<-- learning
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"   width="40" height="40"/>&nbsp;
   
   Others: 
   
@@ -53,5 +53,6 @@ What am I doing now? Probably...
 - 🌱 Learning about ETH and Smart contracts.
 - 👯 I’m looking to collaborate on Data science/Blockchain related subjects.
  
+
 
  
