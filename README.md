@@ -37,7 +37,7 @@
       <td style="border: none; padding: 8px; text-align: left;"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"   width="60" height="60"/>&nbsp; </td>
       <td style="border: none; padding: 8px; text-align: left;"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"    width="60" height="60"/>&nbsp; </td>
       <td style="border: none; padding: 8px; text-align: left;"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"   width="60" height="60"/>&nbsp; </td>
-      <td style="border: none; padding: 8px; text-align: left;"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"   width="60" height="60"/>&nbsp; </td>
+      <td style="border: none; padding: 8px; text-align: left;"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"   width="60" height="60"/>&nbsp; </td>
   </tr>
   
    <tr>
