@@ -1,6 +1,7 @@
 ## Hi there! 👋
 #### Welcome to my git page!
-   
+
+ #### I also have a >>> [Personal Webpage](https://www.roberto-arce.com/) <<<< where some projects are display an explained.
 
 
 
@@ -55,7 +56,7 @@ What am I doing now? Probably...
 - 🌱 Learning about ETH and Smart contracts.
 - 👯 I’m looking to collaborate on Data science/Blockchain related subjects.
  
-
+<br><br><br>
 <p align="center">
   <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="325"/>
   <img src="https://media.giphy.com/media/KCvJeEECMCGNhIlK6O/giphy.gif" width="300"/>
