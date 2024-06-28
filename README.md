@@ -1,7 +1,7 @@
 ## Hi there! 👋
 #### Welcome to my git page!
 
- #### I also have a >>> [Personal Webpage](https://www.roberto-arce.com/) <<<< where some projects are display an explained.
+ #### I also have a >>> [Personal Webpage](https://www.roberto-arce.com/) <<<< where some projects are display and better explained.
 
 
 
