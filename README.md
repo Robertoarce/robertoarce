@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-👋 Hi, I’m @Robertoarce <br><br>👀 I’m interested in Data Science, Machine Learning , Artificial Intelligence and Blockchain. <br>Feel free to contact me!<br><br>My personal webpage: [Personal Webpage](https://www.roberto-arce.com/)
+👋 Hi, I’m @Robertoarce <br><br>👀 Data Scientist, Machine Learning Engineer, AI Engineer and Blockchain. <br>Feel free to contact me!<br><br>My personal webpage: [Personal Webpage](https://www.roberto-arce.com/)
 
 ## 🌐 Socials:
 
